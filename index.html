@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="zh">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>落枫🍁Start Page</title>
+    <link rel="shortcut icon" href="img/x.png" />
+    <link rel="stylesheet" href="css/style.css" />
+    <svg style="position: absolute; width: 0; height: 0">
+      <defs>
+        <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" style="stop-color: #50d8ff; stop-opacity: 1" />
+          <stop offset="100%" style="stop-color: #fffacd; stop-opacity: 1" />
+        </linearGradient>
+      </defs>
+    </svg>
+  </head>
+  <body>
+    <h1 class="title" id="title">落枫起始页</h1>
+    <h1 class="clock" id="clock" style="display: none">13:14:20</h1>
+    <div class="search-container">
+      <div class="search-bar">
+        <button class="engine-toggle" id="engineToggle">
+          <svg viewBox="0 0 18 18" fill="#f0f8ff"><path d="M2 9a7 7 0 1 1 14 0A7 7 0 0 1 2 9zm10.5 0a3.5 3.5 0 1 0-7 0 3.5 3.5 0 0 0 7 0z" /></svg>
+        </button>
+        <input type="text" class="search-input" id="searchInput" placeholder="开启你的旅程..." autocomplete="off" />
+        <button class="search-button" onclick="performSearch()">
+          <!-- <svg viewBox="0 0 18 18" fill="none" stroke="#f0f8ff" stroke-width="2">
+            <circle cx="7" cy="7" r="5" />
+            <line x1="11" y1="11" x2="15" y2="15" />
+            <circle cx="5" cy="5" r="1" fill="#f0f8ff" />
+          </svg> -->
+          🔍
+        </button>
+      </div>
+      <div class="engine-menu" id="engineMenu">
+        <div class="engine-option" data-engine="google">Google</div>
+        <div class="engine-option" data-engine="bing">Bing</div>
+        <div class="engine-option" data-engine="music">DuckDuckGo</div>
+        <div class="engine-option" data-engine="baidu">Baidu</div>
+        <div class="engine-option" data-engine="youtube">YouTube</div>
+        <div class="engine-option" data-engine="bilibili">Bilibili</div>
+        <div class="engine-option" data-engine="wiki">Wiki</div>
+        <div class="engine-option" data-engine="mdn">Mdn</div>
+        <div class="engine-option" data-engine="music">Music</div>
+        <div class="engine-option" data-engine="txsp">Txsp</div>
+      </div>
+    </div>
+    <div class="nav-buttons">
+      <button class="nav-button" onclick="window.open('https://spacex.com')">Spacex</button>
+      <button class="nav-button" onclick="window.open('https://www.notion.so')">Notion</button>
+      <button class="nav-button" onclick="window.open('https://github.com/trending')">Github</button>
+      <button class="nav-button" onclick="window.open('https://dash.cloudflare.com')">CloudFlare</button>
+      <button class="nav-button" onclick="window.open('https://chat.openai.com')">ChatGPT</button>
+      <button class="nav-button" onclick="window.open('https://chat.deepseek.com')">DeepSeek</button>
+      <button class="nav-button" onclick="window.open('https://grok.com')">Grok</button>
+      <button class="nav-button" onclick="window.open('https://www.nasa.gov')">NASA</button>
+    </div>
+    <div class="background-overlay" id="backgroundOverlay"></div>
+    <div class="quote" id="quote">加载中...</div>
+    <div class="footer">© 2025 <a href="https://github.com/hwdpw">落枫🍁</a> <a href="/LICENSE">| Released under the MIT License</a></div>
+    <script src="js/script.js"></script>
+  </body>
+</html>
