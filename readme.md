@@ -26,7 +26,7 @@
    - 上传到静态托管服务（如 GitHub Pages、Vercel）。
    - 访问根目录下的 `index.html`。
 3. **在线使用**：
-   - 在浏览器地址栏输入 `tansuo.space`。
+   - 在浏览器地址栏输入 `hwdpw.github.io/startpage`。
 
 ## 安装与配置
 
@@ -45,13 +45,13 @@
 ## 版权与许可证
 
 © 2025 落枫 🍁  
-本项目秉承 [MIT License](LICENSE) 开源精神，诚邀您自由使用、探索与分享。若转载或传播，烦请标注 [项目原址](https://github.com/hwdpw/-startpage)，感激不尽。  
+本项目秉承 [MIT License](LICENSE) 开源精神，诚邀您自由使用、探索与分享。若转载或传播，烦请标注 [项目原址](https://github.com/hwdpw/startpage)，感激不尽。  
 每一行代码，皆凝聚心血与热爱。若您觉得它有一丝美好，不妨点亮一颗 Star，您的支持是我前行的微光。  
 若有意慷慨相助，欢迎移步 [Personal World ](https://hwd.pw)，一盏茶、一份鼓励，皆是对我莫大的温暖。
 
 ## 贡献
 
-- 提交 Issue 或 Pull Request 到 [GitHub 仓库](https://github.com/hwdpw/-startpage)。
+- 提交 Issue 或 Pull Request 到 [GitHub 仓库](https://github.com/hwdpw/startpage)。
 - 联系方式：hwdpw@outlook.com。
 
 ## 致谢
