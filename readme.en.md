@@ -1,6 +1,6 @@
 # 🍁 Falling Maple Start Page
 
-[中文版 (Chinese Version)](./README.md)
+[中文版](./README.md)
 
 A sleek and elegant browser start page, integrating powerful search functionality and common navigation links to significantly boost daily browsing efficiency. Built with pure static web design, it’s ready to use out of the box, supports multi-engine search, and features responsive layouts with customizable shortcuts, perfectly adapting to personal habits. Lightweight, flexible, and highly customizable, it makes your online experience more efficient and comfortable—give it a try!
 
@@ -17,7 +17,7 @@ A sleek and elegant browser start page, integrating powerful search functionalit
 
 ## Preview
 
-![Demo](https://raw.githubusercontent.com/hwdpw/startpage/refs/heads/main/%E6%BC%94%E7%A4%BA.png)
+![Demo](preview.png)
 
 ## Usage
 
