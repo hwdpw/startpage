@@ -28,7 +28,7 @@
    - 上传到静态托管服务（如 GitHub Pages、Vercel）。
    - 访问根目录下的 `index.html`。
 3. **在线使用**：
-   - [在线使用](https://hwdpw.github.io)。
+   - [在线使用](https://hwdpw.github.io/startpage)。
 
 ## 安装与配置
 

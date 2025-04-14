@@ -33,7 +33,7 @@ A sleek and elegant browser start page, integrating powerful search functionalit
 
 ### Online Use:
 
-- [Try it online](https://hwdpw.github.io)
+- [Try it online](https://hwdpw.github.io/startpage)
 
 ## Installation & Configuration
 
